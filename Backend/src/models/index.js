@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import { Sequelize } from 'sequelize';
 import definirAuto from './auto.js';
 import definirCliente from './cliente.js';
